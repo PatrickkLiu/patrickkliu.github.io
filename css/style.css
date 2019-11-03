@@ -33,7 +33,7 @@ a:hover {
 .fh5co-container {
   margin-top: 50px;
 }
-
+/*
 .overlay {
   background: url(../images/404.svg) no-repeat center center;
   background-size: cover;
@@ -47,7 +47,8 @@ a:hover {
   padding-left: 30px;
   padding-right: 30px;
   z-index: 2;
-}
+*/
+
 .overlay:after, .overlay:before {
   content: "";
   background: #ffffff;
